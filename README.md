@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on programming  ...
 -  [my webpage](https://rajshree2810.github.io/rajshree.github.io/)
 - [my webpage 2.0](https://rajshree2810.github.io/1.github.io)
-- 📫 reach me via https://www.linkedin.com/in/rajshree-khandare-428b7b1b3
+- 📫 reach me via [linkedin](https://www.linkedin.com/in/rajshree-khandare-428b7b1b3)
 
 <!---
 rajshree2810/rajshree2810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
