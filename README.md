@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @rajshree2810
-- 👀 I’m interested in software field...
 - 🌱 I’m currently exploring...
 -...
--  [my webpage](https://rajshree2810.github.io/rajshree.github.io/)
-- [my webpage 2.0](https://rajshree2810.github.io/1.github.io)
+-  [Portfolio](https://rajshree2810.github.io/rajshree.github.io/)
 - 📫 reach me via [linkedin](https://www.linkedin.com/in/rajshree-khandare-428b7b1b3)
 
 <!---
