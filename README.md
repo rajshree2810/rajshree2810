@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rajshree2810
-- 🌱 I’m currently exploring...
+- 👋 Hi there, I’m @rajshree2810
+- 🌱 I’m currently exploring....
 -...
--  [Portfolio](https://rajshree2810.github.io/rajshree.github.io/)
+-  [Portfolio](https://rajshree2810.github.io/1.github.io/)
 - 📫 reach me via [linkedin](https://www.linkedin.com/in/rajshree-khandare-428b7b1b3)
 
 <!---
